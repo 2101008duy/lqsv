@@ -1,0 +1,15 @@
+.tieude-item{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tieude-item-item{
+    margin: 80px 80px 80px 80px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border-radius: 50px;
+    background:linear-gradient(to bottom,white,gray);
+}
+
